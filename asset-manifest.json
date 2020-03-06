@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ProfilePage/static/css/main.acb0b0ee.chunk.css",
+    "main.js": "/ProfilePage/static/js/main.58ddfd7a.chunk.js",
+    "main.js.map": "/ProfilePage/static/js/main.58ddfd7a.chunk.js.map",
+    "runtime-main.js": "/ProfilePage/static/js/runtime-main.5fdd866d.js",
+    "runtime-main.js.map": "/ProfilePage/static/js/runtime-main.5fdd866d.js.map",
+    "static/js/2.99bfaf27.chunk.js": "/ProfilePage/static/js/2.99bfaf27.chunk.js",
+    "static/js/2.99bfaf27.chunk.js.map": "/ProfilePage/static/js/2.99bfaf27.chunk.js.map",
+    "index.html": "/ProfilePage/index.html",
+    "precache-manifest.726e04ea8476fc207ce9d9fc17e75677.js": "/ProfilePage/precache-manifest.726e04ea8476fc207ce9d9fc17e75677.js",
+    "service-worker.js": "/ProfilePage/service-worker.js",
+    "static/css/main.acb0b0ee.chunk.css.map": "/ProfilePage/static/css/main.acb0b0ee.chunk.css.map",
+    "static/js/2.99bfaf27.chunk.js.LICENSE.txt": "/ProfilePage/static/js/2.99bfaf27.chunk.js.LICENSE.txt",
+    "static/media/Me.jpg": "/ProfilePage/static/media/Me.51eb7f9d.jpg",
+    "static/media/nz.webp": "/ProfilePage/static/media/nz.87d011e4.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fdd866d.js",
+    "static/js/2.99bfaf27.chunk.js",
+    "static/css/main.acb0b0ee.chunk.css",
+    "static/js/main.58ddfd7a.chunk.js"
+  ]
+}
